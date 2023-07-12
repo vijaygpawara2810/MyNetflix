@@ -1,0 +1,567 @@
+body
+{
+    margin: 0px;
+    background-color: rgba(30, 19, 19, 0.35);
+}
+#parentdiv
+{
+    /* border:2px solid black; */
+    width: 100%;
+    height: 700px;
+    background-image: url("../Netflix/images/backimg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img
+{
+    /* border: 2px solid black; */
+    width: 200px;
+    height: 100px;
+    margin-left: 150px;
+    position: relative;
+    bottom: 7px;
+    
+     
+}
+
+form
+{
+    display: inline;
+    position: relative;
+    margin-left: 850px;
+    bottom: 55px;
+    border-radius: 10px;
+}
+
+    #myid
+    {
+     width: 100px;
+     height: 35px;
+     color: white;
+     background-color:transparent ;
+    
+    }
+
+   .btn
+   {
+    width: 70px;
+    height: 35px;
+    position: relative;
+    bottom: 55px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color:white;
+    background-color:red;
+
+   }
+
+.nav1
+{
+    /* border: 2px solid green; */
+      
+}
+
+#htag1
+{
+    color: white;
+   font-size: 50px;
+}
+
+#p1
+{
+    color: white;
+    font-size: 27px;
+}
+#p2
+{
+    color: white;
+    font-size: 23px;
+}
+#inp1
+{
+border: 2px  solid rgb(59, 53, 53);
+width: 400px;
+height: 50px;
+border-radius: 5px;
+background-color: transparent;
+margin-left: 500px;
+
+}
+#btn2
+{
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: red;
+}
+ 
+
+ .second>p,h1,button
+ {
+    text-align: center;
+ }
+
+
+ /* first page Over */
+
+
+
+ /* Second Page Start */
+
+ .parentdiv2
+ {
+    border: 2px solid rgb(59, 59, 67);
+    width: 100%;
+    height: 580px;
+    background-color: black;
+    margin-top: 5px;
+    display: flex;
+     
+ }
+ 
+ .chd2
+ {
+    /* border: 2px solid red; */
+    width: 550px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+     
+ }
+  
+ .chd2>h1
+ {
+    color: white;
+    font-size: 50px;
+    text-indent: -150px;
+     
+ }
+
+ .chd2>p
+  {
+ color: white;
+ font-size: 25px;
+  }
+
+  .chd3
+  {
+    /* border: 2px solid blue; */
+    width: 600px;
+    height: 400px;
+    margin-top: 150px;
+    background-image: url("../Netflix/images/tv.png");
+    background-repeat: no-repeat;
+    background-size: 500px 400px;
+  }
+
+  .chd3>img
+  {
+
+    width: 350px;
+    height: 215px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 72px;
+  }
+
+ /* second page */
+
+
+
+
+
+
+ /* third page  */
+
+  .parentdiv3
+  {
+    /* border: 2px solid rgb(59, 59, 67); */
+    width: 100%;
+    height: 580px;
+    background-color: black;
+    margin-top: 5px;
+    display: flex;
+ }
+
+ .chd4
+ {
+    /* border:2px solid red; */
+    width: 600px;
+    height: 500px;
+    background-image: url("../Netflix/images/mobile.jpg");
+    background-repeat: no-repeat;
+    background-size: 560px 450px;
+    background-position-y: 10px;
+    margin-top: 50px;
+    margin-left: 200px;
+
+
+
+ }
+ .chd5
+ {
+    /* border:2px solid red; */
+    width: 600px;
+    height: 300px; 
+    margin-top: 150px;
+ }
+ .chd5>h1
+ {
+  color: white;
+  font-size: 50px;
+  text-indent: -60px;
+ }
+ .chd5>p
+ {
+  color: white;
+  font-size: 25px;
+ }
+ .grandchd
+ {
+    border: 3px solid rgb(19, 19, 12);
+    width: 300px;
+    height: 100px;
+    margin-top: 330px;
+    margin-left: 128px ;
+    border-radius: 10px;
+    background-color: black;
+    display: flex;
+ }
+ .grand1
+ {
+  /* border: 2px solid blue; */
+  width: 80px;
+  height: 100px;
+  background-image: url("../Netflix/images/stranger1.jpg");
+  background-repeat: no-repeat;
+  background-size: 60px 70px;
+  margin-top: 10px;
+  margin-left: 10px;
+ }
+ .grand2
+ {
+    /* border: 2px solid rgb(255, 174, 0); */
+    width: 160px;
+    height: 100px;  
+ }
+
+ .grand2>h3
+ {
+  color: white;
+  margin-top:20px;
+ }
+ .grand2>p
+ {
+    color: rgba(40, 40, 240, 0.477);
+     margin-top: 5px;
+
+ }
+
+ .grand3
+ {
+    /* border: 2px solid rgb(255, 0, 0); */
+    width: 50px;
+    height: 50px;
+    background-image: url("../Netflix/images/loading5.gif");
+
+    background-repeat: no-repeat;
+    background-size: 50px 80px;
+    margin-top: 10px;
+ }
+
+ /* third page over */
+
+
+
+
+ /* fourth page start */
+
+ .parentdiv4
+ {
+     
+   background-color: black;
+   width: 100%;
+   height:580px ;
+   margin-top: 5px;
+   display:flex;
+   align-items: center;
+   justify-content: space-around;
+
+ }
+
+ .chd6
+ {
+   /* border:2px solid  blue; */
+   width: 600px;
+   height: 400px;
+
+ }
+ .grand4
+ {
+   /* border: 2px solid yellowgreen; */
+   height: 300px;
+   margin-top: 10px;
+    
+ }
+ .grand4>h1
+ {
+    color: white;
+    font-size: 50px;
+    text-indent: -180px;
+    
+ }
+ .grand4>p
+ {
+    color: white;
+    font-size: 25px;
+    
+ }
+  
+.grand5
+{
+/* border: 2px solid blue; */
+width: 600px;
+height:400px;
+margin-top: -10px;
+margin-left: -300px;
+background-image: url("../Netflix/images/aorus-monitor.jpg");
+background-repeat: no-repeat;
+background-size: 600px 300px;
+ 
+}
+.grand5img1
+{
+   position:relative;
+   width: 360px;
+   height: 180px;
+   margin-top: 40px;
+   margin-left: 125px;
+
+
+}
+
+.grandimg2
+{
+    
+   position: relative;
+   width: 80px;
+   height: 150px;
+   margin-left: -400px;
+}
+ 
+  /* fouth page end */
+
+
+
+
+  /* fifth page start */
+
+  .parentdiv5
+  {
+  background-color: black;
+   width: 100%;
+   height: 580px;
+   display: flex;
+   margin-top: -10px;
+  }
+
+  .chd7
+  {
+    /* border: 2px  solid  purple; */
+    width:600px;
+    height: 400px;
+    margin-top: 100px;
+   margin-left: 100px;
+   background-image: url("../Netflix/images/chidren.png");
+   background-repeat: no-repeat;
+   background-size: 600px 400px;
+
+  }
+  .chd8
+  {
+   /* border: 2px  solid  purple; */
+    width:700px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 90px;
+   }
+
+   .chd8h1
+   {
+     color: white; 
+     font-size: 50px;
+     text-align: start;
+
+   }
+   
+   .chd8p
+   {
+     color: white; 
+     font-size: 30px;
+
+   }
+
+    /* fifth page end*/
+
+
+     /* six page start */
+
+
+     .parentdiv6
+     {
+      /* border: 2px solid red; */
+      height: 800px;
+      background-color: black;
+      margin-top: 5px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      
+       
+     }
+
+     .chd9
+     {
+      /* border: 2px  solid blue; */
+      font-size: 30px;
+      color: white;
+      width: 900px;
+      text-align: center;
+       
+     }
+     .chd10
+     {
+      /* border: 2px  solid rgb(46, 38, 38); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color: rgb(69, 60, 60);
+     margin-top: 10px;
+       
+     }
+     .chd11
+     {
+      /* border: 2px  solid rgb(170, 24, 80); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color: rgb(46, 38, 38);
+      margin-top: 10px;
+       
+     }
+
+     .chd12
+     {
+      /* border: 2px  solid rgb(191, 196, 29); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color:rgb(46, 38, 38);
+      margin-top: 10px;
+       
+     }
+     .chd13
+     {
+      /* border: 2px  solid rgb(112, 17, 159); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color: rgb(46, 38, 38);
+      margin-top: 10px;
+        
+
+     }
+     .chd14
+     {
+      /* border: 2px  solid rgb(46, 38, 38); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color: rgb(46, 38, 38);
+      margin-top: 10px;
+       
+     }
+     .chd15
+     {
+      /* border: 2px  solid rgb(41, 129, 207); */
+      font-size: 25px;
+      color: white;
+      width: 1200px;
+      background-color: rgb(46, 38, 38);
+      margin-top: 10px;
+       
+     }
+     .chd16
+     {
+      /* border: 2ppx solid  maroon; */
+      color: white;
+      font-size: 20px;
+     }
+     .chd17
+     {
+      /* border: 2px solid  hotpink; */
+      width: 650px;
+      height: 50px;
+     }
+     .chd19
+     {
+      width: 370px;
+      height: 40px;
+      background-color: transparent;
+     }
+     .chd20
+     {
+      width: 250px;
+      height: 50px;
+      background-color: rgb(244, 5, 5);
+      color: white;
+      font-size: 25px;
+      border-radius: 10px;
+     }
+
+     /* sixth page end */
+
+
+     /* seventh page start */
+
+     .chd21
+     {
+      border: 2px solid red;
+      height: 400px;
+      margin-top: 10px;
+      background-color: black;
+      display: flex;
+      flex-direction: column;
+     }
+     table,td,tr{
+      /* border: 2px solid white; */
+      margin-left: 300px;
+
+     }
+     table
+     {
+      
+      border: 2 px solid blue;
+      width: 1000px;
+      height: 50px;
+      color: white;
+      text-align: center;
+     }
+     .chd21>td,tr
+     {
+      width: 400px;
+      height: 20px;
+     }
+     span{
+      color: white;
+     }
+
+     .act1
+     {
+      margin-left: 30px;
+     }
+
+    
